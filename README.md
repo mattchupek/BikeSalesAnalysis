@@ -4,7 +4,7 @@
 
 This project uses a raw Excel File containing data from a bike store and its sales. I used this data to create a professional dashboard with charts and pivot tables using the data from the Excel file. I aimed to find insights in customer behavior and segmentation in my analysis.
 
-![Alt Text](BikeSalesDashboard1.png)
+![Alt Text](BikeSalesDashboard_.png)
 
 
 ### Steps Taken
@@ -28,37 +28,35 @@ This project uses a raw Excel File containing data from a bike store and its sal
 
 1. Sales by Age Group:
 
-- Middle Age customers(35-54) is the only age group where more customers purchase bikes than not, regardless of gender, location, or marital status.
+- Middle Age customers(35-54) are the only age group where more customers purchase bikes than not, regardless of gender, location, or marital status.
 - Young Adults(18-34) purchase more bikes than Seniors(55+).
 
 2. Sales by Gender:
 
-- Men purchase more bikes than women.
-- April peaked in sales.
-- May sales were lower than April but higher than March.
+- Men purchase more bikes than women in every region except Europe.
+- Married men purchase substantially more bikes than married women.
+- Single women purchase substantially more bikes than single men.
   
-3. Sales by Commuting Distance
+3. Sales by Region:
 
-- AAA 4-pack batteries and AA 4-pack batteries are by far the most popular products, but they also have the least revenue of any product.
-
-4. Phone Sales:
-- Vareebad Phones: Sales are significantly lower compared to iPhones and Google Phones.
-
+- People who commute 0-1 miles purchase the most bikes in every region except North America, where 2-5 miles is the most popular.
+- The Pacific is the only region where customers in the Young Adults group(18-34) purchase more bikes than not.
+- Europe is the only region where women purchase more bikes than men.
+  
+4. Sales by Education Level:
+- Customers with Bachelors degrees purchase more bikes than any other education level.
 
 ### Recommendations
-1. Targeted Marketing and Promotions:
-- San Francisco, Los Angeles, and New York: Since these cities have the highest orders and revenue, consider focusing marketing efforts and promotions here to further capitalize on the existing customer base.
-- New York: Investigate the lower sales compared to its population size. Tailored promotions or local events might boost engagement and sales in this area.
+1. Targeted Marketing for Middle Age Customers:
+- Develop targeted marketing campaigns focusing on Middle Age customers (35-54), as they are the most likely to purchase bikes. Use age-appropriate messaging and channels that resonate with this demographic.
 
-2. Seasonal Sales Strategies:
-- January to March: Implement strategies to boost sales during these months, such as seasonal promotions and discounts, to maintain the upward trend after the holiday months.
-- April Peak: Analyze the factors contributing to the high sales in April and replicate these strategies for other months.
-- Post-April Strategy: Develop a retention and follow-up campaign in May to sustain the momentum gained in April.
+2. Promote to Young Adults in the Pacific Region:
+- Increase marketing efforts targeting Young Adults (18-34) in the Pacific region, as they are more likely to purchase bikes there. Highlight features that appeal to younger customers, such as trendy designs and social media campaigns.
 
-3. AAA and AA Batteries Revenue:
-- Since these are popular but low in revenue, consider offering larger packages (e.g., 8-pack or 12-pack) to increase the overall revenue per sale.
-- Bundle these batteries with complementary products to enhance value.
+3. Utilize Marital Status Insights:
+- For married men, emphasize bikes as a family-friendly activity or stress-relief tool.
+- For single women, promote bikes as a means of social activity, independence, and fitness.
 
-4. Vareebadd Phone Pricing:
-- Consider adjusting pricing strategies to compete better with iPhone and Google Phones.
+4. Region-Specific Commuting Promotions:
+- In regions where short-distance commuting (0-1 miles) is popular, create campaigns highlighting the convenience and efficiency of biking for short commutes. In North America, where 2-5 miles is the norm, emphasize the fitness benefits, time savings and gas savings of biking over driving.
 
