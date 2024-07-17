@@ -1,4 +1,4 @@
-# ExcelBikeSalesAnalysis
+# Excel Bike Sales Analysis
 
 ### Project Overview
 
